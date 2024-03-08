@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 public class back1764 {
     
+
+    
     
     public static void main(String[] args) {
 
@@ -15,7 +17,7 @@ public class back1764 {
 
          int N = in.nextInt();
          int M = in.nextInt();
-        
+     
         HashMap<Integer,String> h1 = new HashMap<Integer,String>();
         ArrayList<String> list = new ArrayList<>();
 
@@ -32,9 +34,9 @@ public class back1764 {
              count++;
           }
         }
-        Collections.sort(list);
+       Collections.sort(list);
         System.out.println(count);
-       for(int i=0;i<list.size();i++){
+        for(int i=0;i<list.size();i++){
         System.out.println(list.get(i));
        }
 
