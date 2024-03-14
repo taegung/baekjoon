@@ -19,7 +19,7 @@ public class back1080 {
             for(int k=0;k<M;k++){
                 arrA[i][k]=num.charAt(k)-'0';
             }
-        }
+        }  
         for(int i=0;i<N;i++){
             String num=in.nextLine();
             for(int k=0;k<M;k++){
