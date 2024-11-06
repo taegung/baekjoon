@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "kakao",
+      "request": "launch",
+      "mainClass": "kakao",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back1012",
+      "request": "launch",
+      "mainClass": "back1012",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
       "name": "back1058",
       "request": "launch",
       "mainClass": "back1058",

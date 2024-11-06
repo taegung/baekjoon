@@ -49,6 +49,6 @@ public class back2346 {
             }
         }
         
-        in.close();
+      
     }
 }
