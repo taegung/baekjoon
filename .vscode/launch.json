@@ -1,0 +1,112 @@
+{
+  // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+  // 기존 특성에 대한 설명을 보려면 가리킵니다.
+  // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "kakao",
+      "request": "launch",
+      "mainClass": "kakao",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back1012",
+      "request": "launch",
+      "mainClass": "back1012",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back1058",
+      "request": "launch",
+      "mainClass": "back1058",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back2346",
+      "request": "launch",
+      "mainClass": "back2346",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back1105",
+      "request": "launch",
+      "mainClass": "back1105",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back1080",
+      "request": "launch",
+      "mainClass": "back1080",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back16967",
+      "request": "launch",
+      "mainClass": "back16967",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "back11501",
+      "request": "launch",
+      "mainClass": "back11501",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back1152",
+      "request": "launch",
+      "mainClass": "back1152",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back1449",
+      "request": "launch",
+      "mainClass": "back1449",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back1764",
+      "request": "launch",
+      "mainClass": "back1764",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "back1946",
+      "request": "launch",
+      "mainClass": "back1946",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "baekjoon1259",
+      "request": "launch",
+      "mainClass": "baekjoon1259",
+      "projectName": "baekjoon_448b94e1"
+    },
+    {
+      "type": "java",
+      "name": "baekjoon1515",
+      "request": "launch",
+      "mainClass": "baekjoon1515",
+      "projectName": "baekjoon_448b94e1"
+    }
+  ]
+}
